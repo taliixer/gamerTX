@@ -13,3 +13,4 @@ E-commerce enfocado al publico Gamer, donde tu experiencia de compra sea rápido
 7. Hacer el push dela rama al origin "git push origin "nombre de la rama""
 8. Hacer el pull request a la rama develop en github 
 
+Bryan Andres Vera Garcia 😆
