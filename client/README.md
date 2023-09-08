@@ -11,6 +11,6 @@ E-commerce enfocado al publico Gamer, donde tu experiencia de compra sea rápido
 5. cambiarse a la rama develop "git checkout develop"
 6. crear un nueva rama con la caracteristica a trabajar "git branch "caracteristica-a-trabajar" "
 7. Hacer el push dela rama al origin "git push origin "nombre de la rama""
-8. Hacer el pull request a la rama develop en github 
+8. Hacer el pull request a la rama develop en github.. 
 
 Bryan Andres Vera Garcia 😆.
