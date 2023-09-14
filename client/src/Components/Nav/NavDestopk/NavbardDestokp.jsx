@@ -7,7 +7,7 @@ import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
 import InputBase from '@mui/material/InputBase';
 import SearchIcon from '@mui/icons-material/Search';
-import  SvgLogo  from "../../../svg/Logo.jsx";
+import SvgLogo  from "../../../svg/Logo.jsx";
 import Button from '@mui/material/Button'
 import ButtonNav from './ButtonNav.jsx';
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline';

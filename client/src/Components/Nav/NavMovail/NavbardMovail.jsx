@@ -67,7 +67,6 @@ export default function NavbardMovail() {
           justifyContent="space-between"
           alignItems="center"
           spacing={2}
-
         >
           <LogoMovail />
           <Typography variant="body1" color="white">
@@ -94,7 +93,7 @@ export default function NavbardMovail() {
           <Button sx={{ color: "white" }} variant="text" color="primary" startIcon={<PersonOutlineIcon />}>
             Login / Register
           </Button>
-          </Stack>
+        </Stack>
 
           <Search>
             <SearchIconWrapper>
