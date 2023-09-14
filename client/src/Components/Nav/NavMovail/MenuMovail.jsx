@@ -8,7 +8,7 @@ import IconButton from '@mui/material/IconButton';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import Tooltip from '@mui/material/Tooltip';
 import MenuIcon from '@mui/icons-material/Menu';
-import LogoMovail from '../../../svg/Logomovail';
+import LogoMovail from '../../../svg/LogoMovail';
 import ClearIcon from '@mui/icons-material/Clear';
 import { Stack, Button} from '@mui/material';
 

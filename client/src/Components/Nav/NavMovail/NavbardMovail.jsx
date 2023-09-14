@@ -10,7 +10,7 @@ import InputBase from '@mui/material/InputBase';
 import SearchIcon from '@mui/icons-material/Search';
 import { Button, Stack } from '@mui/material';
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline';
-import LogoMovail from '../../../svg/Logomovail';
+import LogoMovail from '../../../svg/LogoMovail';
 import MenuNavMovail from './MenuMovail';
 
 
